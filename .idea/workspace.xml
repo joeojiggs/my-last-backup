@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c30c6e7d-72c8-49c4-8b89-2836497194fd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="FavoritesManager">
+    <favorites_list name="switch_calls" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hY8YFV7V83wlaHyxCTiRtijgBo" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODE\switchcalls\switch_calls\lib" />
+      <recent name="D:\CODE\switchcalls\switch_calls\lib\resources" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c30c6e7d-72c8-49c4-8b89-2836497194fd" name="Default Changelist" comment="" />
+      <created>1600176710867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600176710867</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1602606877709</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602606877709</updated>
+    </task>
+    <task id="LOCAL-00002" summary="changes Commit">
+      <created>1602610376574</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602610376574</updated>
+    </task>
+    <task id="LOCAL-00003" summary="changes Commit">
+      <created>1602956819264</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602956819264</updated>
+    </task>
+    <task id="LOCAL-00004" summary="still working">
+      <created>1604924702136</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604924702750</updated>
+    </task>
+    <task id="LOCAL-00005" summary="still working">
+      <created>1604925148262</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604925148263</updated>
+    </task>
+    <task id="LOCAL-00006" summary="still working">
+      <created>1604998906235</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1604998906235</updated>
+    </task>
+    <task id="LOCAL-00007" summary="still working">
+      <created>1604999822732</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1604999822732</updated>
+    </task>
+    <task id="LOCAL-00008" summary="still working">
+      <created>1605001016918</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605001016918</updated>
+    </task>
+    <task id="LOCAL-00009" summary="populate chat screen">
+      <created>1605005218076</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605005218077</updated>
+    </task>
+    <task id="LOCAL-00010" summary="populate chat screen">
+      <created>1605005431187</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605005431187</updated>
+    </task>
+    <task id="LOCAL-00011" summary="populate chat screen">
+      <created>1605005804634</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605005804634</updated>
+    </task>
+    <task id="LOCAL-00012" summary="populate chat screen">
+      <created>1605010556853</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605010556853</updated>
+    </task>
+    <task id="LOCAL-00013" summary="user profile and logout">
+      <created>1605012465268</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605012465268</updated>
+    </task>
+    <task id="LOCAL-00014" summary="user profile and logout">
+      <created>1605012646358</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605012646358</updated>
+    </task>
+    <task id="LOCAL-00015" summary="user profile and logout">
+      <created>1605013446010</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605013446010</updated>
+    </task>
+    <task id="LOCAL-00016" summary="sqlite et hive">
+      <created>1605015408632</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1605015408632</updated>
+    </task>
+    <task id="LOCAL-00017" summary="sqlite et hive">
+      <created>1605015870446</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605015870446</updated>
+    </task>
+    <task id="LOCAL-00018" summary="sqlite et hive">
+      <created>1605016219843</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1605016219843</updated>
+    </task>
+    <task id="LOCAL-00019" summary="implemented sqlite">
+      <created>1605045755768</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1605045755768</updated>
+    </task>
+    <task id="LOCAL-00020" summary="implemented hive">
+      <created>1605046325564</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1605046325564</updated>
+    </task>
+    <task id="LOCAL-00021" summary="call history">
+      <created>1605339258714</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1605339258714</updated>
+    </task>
+    <task id="LOCAL-00022" summary="contact screen">
+      <created>1605533853685</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1605533853686</updated>
+    </task>
+    <task id="LOCAL-00023" summary="contact screen">
+      <created>1605563479056</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1605563479056</updated>
+    </task>
+    <task id="LOCAL-00024" summary="contact screen">
+      <created>1605563984152</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1605563984152</updated>
+    </task>
+    <task id="LOCAL-00025" summary="contact screen">
+      <created>1605609107433</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1605609107433</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="changes Commit" />
+    <MESSAGE value="still working" />
+    <MESSAGE value="populate chat screen" />
+    <MESSAGE value="user profile and logout" />
+    <MESSAGE value="sqlite et hive" />
+    <MESSAGE value="implemented sqlite" />
+    <MESSAGE value="implemented hive" />
+    <MESSAGE value="call history" />
+    <MESSAGE value="contact screen" />
+    <option name="LAST_COMMIT_MESSAGE" value="contact screen" />
+  </component>
+</project>
